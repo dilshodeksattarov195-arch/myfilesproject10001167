@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypalidate",
+        "uuid": 10431813,
+        "checksum": "ouwmk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
